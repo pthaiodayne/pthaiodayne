@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pthaiodayne
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in CS
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
